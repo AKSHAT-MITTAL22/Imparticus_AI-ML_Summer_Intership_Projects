@@ -1,7 +1,7 @@
-# 🚀 Completing My Summer Internship at Imparticus Learning Private Limited: A Deep Dive into AI and ML! 🤖💡
+# 🚀 Completing My Summer Internship at Imparticus Learning: A Deep Dive into AI and ML! 🤖💡
 
 - I had the privilege of immersing myself in the fascinating realms of Artificial Intelligence (AI) and Machine Learning (ML), with a special focus on Deep Learning. 
-- Throughout these enriching months, I've delved into the intricate world of Data Science, ML and Deep Learning concepts. 
+- Throughout these enriching months, I've delved into the intricate world of Data Science, ML, and Deep Learning concepts. 
 
 I'm excited to share some highlights of my experience:
 
