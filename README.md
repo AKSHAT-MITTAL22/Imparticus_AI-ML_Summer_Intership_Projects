@@ -11,7 +11,7 @@ I'm excited to share some highlights of my experience:
 
 📊 Data Visualization Skills: In addition to ML-DL, I had the chance to enhance my data visualization skills using Power BI and Tableau. Transforming data into insightful visualizations has been a game-changer for understanding trends and making informed decisions.
 
-🔧 Hands-on Experience: Hands-on projects have allowed me to tinker with frameworks like TensorFlow, giving me a solid grasp of building and fine-tuning neural networks. I've learned the art of hyperparameter tuning and model optimization.
+🔧 Hands-on Experience: Hands-on projects(BigMart Sales Prediction and CIFAR-100 dataset) have allowed me to tinker with libraries and frameworks like sklearn, and TensorFlow, giving me a solid grasp of building and fine-tuning ML models and neural networks. I've learned the art of hyperparameter tuning and model optimization.
 
 🧠 Continuous Learning: The world of AI and ML is ever-evolving, and I've embraced a mindset of continuous learning. Staying updated with the latest advancements and research papers has become second nature.
 
